@@ -1,7 +1,14 @@
 export function ResourceSection(){
     return (
-        <div>
-                        
+        <div className="">
+            <div>
+                <p>Resources section</p>
+            </div>
+
+            <div>
+                
+            </div>
+                
         </div>
     )
 }
